@@ -31,7 +31,7 @@ Incluye todo el proceso analítico completo:
 ├── notebooks/\
 │ └── Proyecto_Final.ipynb # Notebook principal con el análisis completo\
 ├── README.md # Descripción del proyecto (este archivo)\
-└── results/ # Gráficos o resultados exportados (opcional)\
+└── results/ # Gráficos o resultados exportados (opcional)
 
 ---
 
