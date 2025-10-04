@@ -27,11 +27,30 @@ Incluye todo el proceso analítico completo:
 ## 🗂 Estructura del Proyecto
 
 📁 Proyecto_Final/\
-├── data/ # Datos crudos y dataset limpio final\
+├── data/\
+│   ├── dataset_final.zip   # Dataset limpio usado en el análisis\
 ├── notebooks/\
 │ └── Proyecto_Final.ipynb # Notebook principal con el análisis completo\
 ├── README.md # Descripción del proyecto (este archivo)\
 └── results/ # Gráficos o resultados exportados (opcional)
+
+---
+
+## 📂 Fuentes de Datos
+
+Los datos originales utilizados en este proyecto provienen de **[The Movies Dataset (Kaggle)](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)**, un conjunto de datos público con información sobre películas, géneros, países de producción, presupuestos, ingresos y valoraciones de usuarios.
+
+De este dataset completo se han empleado específicamente los siguientes archivos para el análisis:
+
+- `movies_metadata.csv` → Contiene información general de las películas (género, idioma, país, presupuesto, ingresos, etc.).  
+- `ratings.csv` → Contiene las valoraciones de los usuarios a cada película.
+
+El resto de archivos incluidos en el dataset original no se han utilizado en este proyecto.
+
+Tras la limpieza y transformación de los datos, ambos archivos se integraron en un **dataset final procesado**, disponible en este repositorio bajo el nombre:  
+📦 `dataset_final.zip`  
+
+> 💡 Nota: Los datos originales no se incluyen directamente en el repositorio debido a su tamaño, pero pueden descargarse libremente desde el enlace de Kaggle indicado arriba.
 
 ---
 
