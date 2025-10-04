@@ -106,6 +106,25 @@ las **coproducciones** son más estables y tienden a asegurar ingresos intermedi
 
 ---
 
+## 📊 Dashboard Operativo
+
+El proyecto se complementará con un **Dashboard interactivo**, cuyo objetivo es facilitar la interpretación visual de los resultados y permitir una exploración dinámica de las principales métricas del análisis.
+
+Inicialmente, el dashboard se desarrollará en **Power BI**, aunque se contempla la posibilidad de implementarlo en **Google Sheets** si la herramienta resulta más adecuada para la visualización final.
+
+El panel incluirá visualizaciones centradas en los siguientes ejes de análisis:
+
+- Distribución de valoraciones por género y país  
+- Relación entre presupuesto e ingresos  
+- Rentabilidad (ROI) y su comparación entre producciones únicas y coproducciones  
+- Evolución temporal de valoraciones y volumen de producciones  
+
+📎 **Estado actual:** en desarrollo  
+🔗 Una vez finalizado, el dashboard estará disponible para su consulta mediante enlace público, que se añadirá en esta sección del README.
+
+
+---
+
 ## ✒ Autora
 **Celia Palacios**  
 💻 Proyecto Final   
