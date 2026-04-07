@@ -14,7 +14,7 @@ El dashboard se divide en tres páginas:
 
 El archivo del dashboard está disponible en el repositorio o en el siguiente enlace:
 
-👉 [Ver dashboard](https://drive.google.com/file/d/18OjmtS4XZVQLZ7MRQ5MSpHdeuWNM7ZcC/view?usp=drive_link)
+👉 [Ver dashboard](https://github.com/CeliaPalacios/Proyecto-Final/blob/590c79514694297a9033a49c4086ec55ddc46e58/dashboard/Dashboard_Proyecto_Final.pbix)
 
 ## 📸 Capturas
 
