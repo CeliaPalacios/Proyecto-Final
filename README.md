@@ -150,9 +150,9 @@ Análisis avanzado:
 
 ### 📸 Capturas del dashboard
 
-![Resumen general](images/dashboard/Página 1.png)
-![Análisis por género y país](images/dashboard/Página 2.png)
-![Rendimiento y popularidad](images/dashboard/Página 3.png)
+![Resumen general](https://github.com/CeliaPalacios/Proyecto-Final/blob/f9a2db102c29a1d34e9f930068a2fb9d3d66603d/images/dashboard/pagina1.png)
+![Análisis por género y país](images/dashboard/pagina2.png)
+![Rendimiento y popularidad](images/dashboard/pagina3.png)
 
 ---
 
