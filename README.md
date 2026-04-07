@@ -150,9 +150,9 @@ Análisis avanzado:
 
 ### 📸 Capturas del dashboard
 
-![Resumen general](images/dashboard/Página1.png)
-![Análisis por género y país](images/dashboard/Página2.png)
-![Rendimiento y popularidad](images/dashboard/Página3.png)
+![Resumen general](images/dashboard/Página 1.png)
+![Análisis por género y país](images/dashboard/Página 2.png)
+![Rendimiento y popularidad](images/dashboard/Página 3.png)
 
 ---
 
