@@ -20,7 +20,7 @@ Incluye todo el proceso analítico completo:
 - Análisis descriptivo, comparativo y estadístico.  
 - Visualizaciones interpretativas.  
 - Conclusiones globales explicativas.  
-- **Dashboard operativo (pendiente de implementación).**
+- Dashboard operativo.
 
 ---
 
@@ -31,9 +31,9 @@ Incluye todo el proceso analítico completo:
 │   ├── dataset_final.zip   # Dataset limpio usado en el análisis\
 ├── notebooks/\
 │ └── Proyecto_Final.ipynb # Notebook principal con el análisis completo\
-├── dashboard/\
-│ └── Dashboard_Proyecto_Final\
-│ └── README.md # Descripción del Dashboard\
+├── dashboard/
+│   ├── Dashboard_Proyecto_Final.pbix
+│   └── README.md
 ├── docs/\
 │ └── informe_análisis.md # \
 ├── images/dashboard/\
@@ -108,10 +108,11 @@ las **coproducciones** son más estables y tienden a asegurar ingresos intermedi
 
 ---
 
-## 🔄 Próximos Pasos
-- Implementar el **Dashboard operativo** para explorar resultados de forma interactiva.  
-- Incluir nuevas métricas temporales (evolución por décadas, popularidad anual).  
-- Ampliar el análisis con variables de audiencia o sentimiento en reseñas.  
+## 🔄 Líneas futuras
+
+- Incorporar modelos predictivos (machine learning)
+- Ampliar el dataset con nuevas variables (actores, directores)
+- Mejorar el dashboard con filtros avanzados  
 
 ---
 
@@ -157,9 +158,11 @@ Análisis avanzado:
 
 ---
 
+El dashboard permite explorar de forma interactiva los principales resultados del análisis, facilitando la identificación de patrones en la industria cinematográfica.
+
 ### 📸 Capturas del dashboard
 
-![Resumen general](https://github.com/CeliaPalacios/Proyecto-Final/blob/f9a2db102c29a1d34e9f930068a2fb9d3d66603d/images/dashboard/pagina1.png)
+![Resumen general](images/dashboard/pagina1.png)
 ![Análisis por género y país](images/dashboard/pagina2.png)
 ![Rendimiento y popularidad](images/dashboard/pagina3.png)
 
@@ -172,6 +175,13 @@ El archivo completo de Power BI puede consultarse aquí:
 👉 [Ver dashboard](https://drive.google.com/file/d/18OjmtS4XZVQLZ7MRQ5MSpHdeuWNM7ZcC/view?usp=drive_link)
 
 *Nota: El archivo puede descargarse y abrirse con Power BI Desktop.*
+
+
+## 📄 Informe del análisis
+
+El informe completo del análisis se encuentra en:
+
+👉 [Ver informe](docs/informe_analisis.md)
 
 
 
