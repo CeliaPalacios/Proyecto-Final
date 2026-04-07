@@ -31,6 +31,15 @@ Incluye todo el proceso analítico completo:
 │   ├── dataset_final.zip   # Dataset limpio usado en el análisis\
 ├── notebooks/\
 │ └── Proyecto_Final.ipynb # Notebook principal con el análisis completo\
+├── dashboard/\
+│ └── Dashboard_Proyecto_Final\
+│ └── README.md # Descripción del Dashboard\
+├── docs/\
+│ └── informe_análisis.md # \
+├── images/dashboard/\
+│ └──pagina1.png\
+│ └──pagina2.png\
+│ └──pagina3.png\
 ├── README.md # Descripción del proyecto (este archivo)\
 
 ---
