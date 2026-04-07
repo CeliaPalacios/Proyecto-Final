@@ -150,9 +150,9 @@ Análisis avanzado:
 
 ### 📸 Capturas del dashboard
 
-![Resumen general](images/dashboard/pagina1.png)
-![Análisis por género y país](images/dashboard/pagina2.png)
-![Rendimiento y popularidad](images/dashboard/pagina3.png)
+![Resumen general](images/dashboard/Página1.png)
+![Análisis por género y país](images/dashboard/Página2.png)
+![Rendimiento y popularidad](images/dashboard/Página3.png)
 
 ---
 
@@ -161,6 +161,7 @@ Análisis avanzado:
 El archivo completo de Power BI puede consultarse aquí:
 
 👉 [Ver dashboard](https://drive.google.com/file/d/18OjmtS4XZVQLZ7MRQ5MSpHdeuWNM7ZcC/view?usp=drive_link)
+
 *Nota: El archivo puede descargarse y abrirse con Power BI Desktop.*
 
 
