@@ -106,21 +106,63 @@ las **coproducciones** son más estables y tienden a asegurar ingresos intermedi
 
 ---
 
-## 📊 Dashboard Operativo
+## 📊 Dashboard en Power BI
 
-El proyecto se complementará con un **Dashboard interactivo**, cuyo objetivo es facilitar la interpretación visual de los resultados y permitir una exploración dinámica de las principales métricas del análisis.
+El proyecto incluye un dashboard interactivo desarrollado en **Power BI**, estructurado en tres páginas principales:
 
-Inicialmente, el dashboard se desarrollará en **Power BI**, aunque se contempla la posibilidad de implementarlo en **Google Sheets** si la herramienta resulta más adecuada para la visualización final.
+### 🔹 Resumen general
 
-El panel incluirá visualizaciones centradas en los siguientes ejes de análisis:
+Vista global con KPIs clave:
 
-- Distribución de valoraciones por género y país  
-- Relación entre presupuesto e ingresos  
-- Rentabilidad (ROI) y su comparación entre producciones únicas y coproducciones  
-- Evolución temporal de valoraciones y volumen de producciones  
+* Total de películas
+* Ingresos y presupuesto (corregidos sin duplicados)
+* ROI medio
+* Valoración media
 
-📎 **Estado actual:** en desarrollo  
-🔗 Una vez finalizado, el dashboard estará disponible para su consulta mediante enlace público, que se añadirá en esta sección del README.
+Incluye:
+
+* Distribución por géneros
+* Evolución temporal
+* Mapa de ingresos por país
+
+---
+
+### 🔹 Análisis por género y país
+
+Explora patrones estructurales:
+
+* Comparación entre ingresos y presupuesto por género
+* Distribución de coproducciones
+* Ranking de países por ingresos
+
+---
+
+### 🔹 Rendimiento y popularidad
+
+Análisis avanzado:
+
+* Relación entre presupuesto e ingresos
+* Popularidad vs valoración
+* Duración media por género
+* Top películas por ROI
+
+---
+
+### 📸 Capturas del dashboard
+
+![Resumen general](images/dashboard/pagina1.png)
+![Análisis por género y país](images/dashboard/pagina2.png)
+![Rendimiento y popularidad](images/dashboard/pagina3.png)
+
+---
+
+### 🔗 Acceso al dashboard
+
+El archivo completo de Power BI puede consultarse aquí:
+
+👉 [Ver dashboard](https://drive.google.com/file/d/18OjmtS4XZVQLZ7MRQ5MSpHdeuWNM7ZcC/view?usp=drive_link)
+*Nota: El archivo puede descargarse y abrirse con Power BI Desktop.*
+
 
 
 ---
@@ -134,4 +176,3 @@ El panel incluirá visualizaciones centradas en los siguientes ejes de análisis
 ## 🧾 Nota Final
 El notebook `Proyecto_Final.ipynb` actúa como **informe explicativo completo**,  
 incluyendo la limpieza, análisis, visualización y conclusiones globales.  
-Solo falta la implementación del **Dashboard operativo** para completar el proyecto.
